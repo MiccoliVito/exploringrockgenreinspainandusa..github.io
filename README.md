@@ -186,10 +186,15 @@ footer {
   <h2><em>Welcome to our website on Rock Music!</em></h2>
  
           <div class=article>
-    <div class="article-text">
-      <p>Our platform brings you two captivating data stories: one focused on the rock genre in Spain and the other on the rock scene in the United States. Let's explore these stories and uncover the hidden narratives behind these iconic music landscapes. The first story is an exhilarating journey through the vibrant Spanish rock music scene. Through in-depth data analysis and captivating visualizations, we uncover the evolution of rock bands, explore their origins, and map out the stadiums that have witnessed unforgettable rock performances. Discover the intriguing stories behind renowned Spanish rock bands and immerse yourself in the rich cultural heritage of this genre. The second story is an exciting adventure into the heart of American rock music. Our data-driven exploration takes you on a virtual tour of stadiums across the United States, where legendary rock acts have taken the stage. Dive into the formation periods of influential rock bands and delve into the dynamics of notable groups such as Santana, Guns N' Roses, Journey, Linkin Park, and My Chemical Romance. Immerse yourself in the captivating world of American rock music and uncover the fascinating insights that data analysis reveals. Whether you're a die-hard rock fan, a music enthusiast, or simply curious about the genre, we aim to provide you a unique perspective on the evolution, impact, and cultural significance of rock music in Spain and the USA. Our data stories showcase the power of music analysis, bringing together data, storytelling, and visualizations to create an immersive experience that will leave you inspired and intrigued.
-Start exploring the data stories now and let the magic of rock music unfold before your eyes! </p>
-    </div>
+    <div class="white-box">
+    <p style="font-family: 'Times New Roman', serif;">Our platform brings you two captivating data stories: one focused on the rock genre in Spain and the other on the rock scene in the United States. Let's explore these stories and uncover the hidden narratives behind these iconic music landscapes.
+The first story is an exhilarating journey through the vibrant Spanish rock music scene. Through in-depth data analysis and captivating visualizations, we uncover the evolution of rock bands, explore their origins, and map out the stadiums that have witnessed unforgettable rock performances. Discover the intriguing stories behind renowned Spanish rock bands and immerse yourself in the rich cultural heritage of this genre.
+The second story is an exciting adventure into the heart of American rock music. Our data-driven exploration takes you on a virtual tour of stadiums across the United States, where legendary rock acts have taken the stage. Dive into the formation periods of influential rock bands and delve into the dynamics of notable groups such as Santana, Guns N' Roses, Journey, Linkin Park, and My Chemical Romance. Immerse yourself in the captivating world of American rock music and uncover the fascinating insights that data analysis reveals.
+Whether you're a die-hard rock fan, a music enthusiast, or simply curious about the genre, we aim to provide you a unique perspective on the evolution, impact, and cultural significance of rock music in Spain and the USA. Our data stories showcase the power of music analysis, bringing together data, storytelling, and visualizations to create an immersive experience that will leave you inspired and intrigued.
+Start exploring the data stories now and let the magic of rock music unfold before your eyes!
+ </p>
+  </div>
+     </div>
   
 <div class="container">
   <a href="https://miccolivito.github.io/RockGenreinSpain/"><img src="https://yt3.googleusercontent.com/ytc/AGIKgqNSXlInU8X5qpW2Rekkvwo8FzpG1iFs_p8KBZX9oQ=s900-c-k-c0x00ffffff-no-rj" alt="spain" style="width:100%;" /></a>
