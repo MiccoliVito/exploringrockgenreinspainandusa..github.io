@@ -197,7 +197,7 @@ Start exploring the data stories now and let the magic of rock music unfold befo
      </div>
   
 <div class="container">
-  <a href="https://miccolivito.github.io/RockGenreinSpain/"><img src="https://yt3.googleusercontent.com/ytc/AGIKgqNSXlInU8X5qpW2Rekkvwo8FzpG1iFs_p8KBZX9oQ=s900-c-k-c0x00ffffff-no-rj" alt="Rocking Spain" style="width:100%;" /></a>
+  <a href="https://miccolivito.github.io/RockGenreinSpain/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.topfestivales.com%2Fen%2Fbest-rock-music-festivals-in-spain&psig=AOvVaw0JAA9ok5cUtf79wp8KjKUY&ust=1686859649734000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjC_oXIw_8CFQAAAAAdAAAAABAE" alt="Rocking Spain" style="width:100%;" /></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rocking Spain</span></h2></div>
 </div>
 <br /> 
