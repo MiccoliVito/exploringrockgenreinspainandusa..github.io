@@ -1,1 +1,217 @@
-# exploringrockgenreinspainandusa..github.io
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>All-at-Once-home</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="All-at-Once-home" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://miccolivito.github.io/exploringrockgenreinspainandusa..github.io/" />
+<meta property="og:url" content="https://miccolivito.github.io/exploringrockgenreinspainandusa..github.io/" />
+<meta property="og:site_name" content="6-Girls-on-a-stage-home" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="All-at-Once-home" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"All-at-Once-home","name":"All-at-Once-home","url":https://miccolivito.github.io/exploringrockgenreinspainandusa..github.io/}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/All-at_once-home/assets/css/style.css?v=dd01ed4da6fcf341588380a7f185754730090c18">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/All-at-Once-home/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+      <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://miccolivito.github.io/exploringrockgenreinspainandusa..github.io/">All-at-Once-home</a></h1>
+      
+
+      <html>
+<head>
+  <title>All at once</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ a {
+        color: #fff;
+        text-decoration: none;
+    }
+  
+.topnav {
+  overflow: hidden;
+  background-color: #;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #028f1e;
+  color: white;
+}
+</style>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .title-box {
+      background-color: #028f1e;
+      padding: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #FFF;
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      margin: 0;
+    }
+
+    h2 {
+      color: #028f1e;
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      margin-top: 10px;
+      font-style: italic;
+    }
+
+    .article {
+      display: flex;
+      align-items: center;
+      border: 1px solid #DDD;
+      padding: 20px;
+      margin-bottom: 20px;
+      background-color: #FFF;
+    }
+
+    .article-text {
+      flex: 1;
+      font-family: 'Times New Roman', serif;
+    }
+
+    .article-image {
+      flex: 1;
+      margin-left: 20px;
+    }
+
+    .section {
+      margin-top: 40px;
+    }
+
+    .section-image {
+      display: flex;
+      justify-content: center;
+      margin-top: 22px;
+      border: 1px solid #DDD;
+      padding: 8px;
+      background-color: #FFF;
+    }
+
+    .section-image img {
+      flex: 1;
+      margin-right: 10px;
+    }
+
+    .small-italic {
+      font-style: italic;
+      font-size: 14px;
+      font-family: 'Times New Roman', serif;
+    }
+
+    .white-box {
+      background-color: #FFF;
+      border: 1px solid #DDD;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+/* Style the footer */
+footer {
+  background-color: #028f1e;
+  padding: 10px;
+  text-align: left;
+  color: white;
+}
+
+  </style>
+</head>
+       </body>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="https://miccolivito.github.io/RockGenreinSpain/">Spain</a>
+  <a href="https://miccolivito.github.io/Rockusa/">USA</a>
+  <a href="https://serena2796.github.io/Serena2796.github.io.report/">Final Report</a>
+</div>
+
+<div class="title-box">
+    <h1>All at Once</h1>
+  </div>
+
+  <h2><em>Welcome to our website on Rock Music!</em></h2>
+  
+  <div class="article">
+    <div class="article-text">
+      <p>Our platform brings you two captivating data stories: one focused on the rock genre in Spain and the other on the rock scene in the United States. Let's explore these stories and uncover the hidden narratives behind these iconic music landscapes. The first story is an exhilarating journey through the vibrant Spanish rock music scene. Through in-depth data analysis and captivating visualizations, we uncover the evolution of rock bands, explore their origins, and map out the stadiums that have witnessed unforgettable rock performances. Discover the intriguing stories behind renowned Spanish rock bands and immerse yourself in the rich cultural heritage of this genre. The second story is an exciting adventure into the heart of American rock music. Our data-driven exploration takes you on a virtual tour of stadiums across the United States, where legendary rock acts have taken the stage. Dive into the formation periods of influential rock bands and delve into the dynamics of notable groups such as Santana, Guns N' Roses, Journey, Linkin Park, and My Chemical Romance. Immerse yourself in the captivating world of American rock music and uncover the fascinating insights that data analysis reveals. Whether you're a die-hard rock fan, a music enthusiast, or simply curious about the genre, we aim to provide you a unique perspective on the evolution, impact, and cultural significance of rock music in Spain and the USA. Our data stories showcase the power of music analysis, bringing together data, storytelling, and visualizations to create an immersive experience that will leave you inspired and intrigued.
+Start exploring the data stories now and let the magic of rock music unfold before your eyes! </p>
+    </div>
+  
+<div class="container">
+  <a href="https://miccolivito.github.io/RockGenreinSpain/"><img src="https://yt3.googleusercontent.com/ytc/AGIKgqNSXlInU8X5qpW2Rekkvwo8FzpG1iFs_p8KBZX9oQ=s900-c-k-c0x00ffffff-no-rj" alt="spain" style="width:100%;" /></a>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rocking Spain</span></h2></div>
+</div>
+<br /> 
+
+<div class="container">
+  <a href="https://miccolivito.github.io/Rockusa/"><img src="https://metalshout.com/wp-content/uploads/2022/04/best-metal-and-rock-music-festivals-usa-1.jpg" alt="usa" style="width:100%;" /></a>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rocking USA</span></h2></div>
+</div>
+  </div>
+
+<br />
+
+
+</body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
