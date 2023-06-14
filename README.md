@@ -197,14 +197,14 @@ Start exploring the data stories now and let the magic of rock music unfold befo
      </div>
   
 <div class="container">
-  <a href="https://miccolivito.github.io/RockGenreinSpain/"><img src="https://yt3.googleusercontent.com/ytc/AGIKgqNSXlInU8X5qpW2Rekkvwo8FzpG1iFs_p8KBZX9oQ=s900-c-k-c0x00ffffff-no-rj" alt="spain" style="width:100%;" /></a>
+  <a href="https://miccolivito.github.io/RockGenreinSpain/"><img src="https://yt3.googleusercontent.com/ytc/AGIKgqNSXlInU8X5qpW2Rekkvwo8FzpG1iFs_p8KBZX9oQ=s900-c-k-c0x00ffffff-no-rj" alt="Rocking Spain" style="width:100%;" /></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rocking Spain</span></h2></div>
 </div>
 <br /> 
 <br />
 
 <div class="container">
-  <a href="https://miccolivito.github.io/Rockusa/"><img src="https://metalshout.com/wp-content/uploads/2022/04/best-metal-and-rock-music-festivals-usa-1.jpg" alt="usa" style="width:100%;" /></a>
+  <a href="https://miccolivito.github.io/Rockusa/"><img src="https://metalshout.com/wp-content/uploads/2022/04/best-metal-and-rock-music-festivals-usa-1.jpg" alt="Rocking USA" style="width:100%;" /></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rocking USA</span></h2></div>
 </div>
   </div>
