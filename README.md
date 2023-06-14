@@ -206,11 +206,6 @@ Start exploring the data stories now and let the magic of rock music unfold befo
 
 <br />
 
-
-</body>
-</html>
-
-
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
