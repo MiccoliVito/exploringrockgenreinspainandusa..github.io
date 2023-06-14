@@ -207,12 +207,12 @@ Start exploring the data stories now and let the magic of rock music unfold befo
   <a href="https://miccolivito.github.io/Rockusa/"><img src="https://metalshout.com/wp-content/uploads/2022/04/best-metal-and-rock-music-festivals-usa-1.jpg" alt="Rocking USA" style="width:100%;" /></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rocking USA</span></h2></div>
 </div>
-  </div>
+  
 
 <br />
 
       
-    </div>
+   
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
