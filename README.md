@@ -177,6 +177,7 @@ footer {
   <a href="https://miccolivito.github.io/Rockusa/">USA</a>
   <a href="https://serena2796.github.io/Serena2796.github.io.report/">Final Report</a>
 </div>
+   <div class="w2-container">
 
 <div class="title-box">
     <h1>All at Once</h1>
