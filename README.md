@@ -73,7 +73,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #028f1e;
+  background-color: #991199;
   color: white;
 }
 </style>
@@ -89,7 +89,7 @@ body {
     }
 
     .title-box {
-      background-color: #028f1e;
+      background-color: #991199;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -103,7 +103,7 @@ body {
     }
 
     h2 {
-      color: #028f1e;
+      color: #991199;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
@@ -159,14 +159,6 @@ body {
       padding: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
-
-/* Style the footer */
-footer {
-  background-color: #028f1e;
-  padding: 10px;
-  text-align: left;
-  color: white;
-}
 
   </style>
 </head>
