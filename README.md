@@ -11,7 +11,7 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://miccolivito.github.io/exploringrockgenreinspainandusa..github.io/" />
 <meta property="og:url" content="https://miccolivito.github.io/exploringrockgenreinspainandusa..github.io/" />
-<meta property="og:site_name" content="6-Girls-on-a-stage-home" />
+<meta property="og:site_name" content="All-at-Once-home" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="All-at-Once-home" />
@@ -173,7 +173,7 @@ body {
    <div class="w2-container">
 
 <div class="title-box">
-    <h1>All at Once</h1>
+    <h1>All At Once</h1>
   </div>
 
   <h2><em>Welcome to our website on Rock Music!</em></h2>
