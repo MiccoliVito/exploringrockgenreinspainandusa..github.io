@@ -181,9 +181,13 @@ body {
           <div class=article>
     <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;">Our platform brings you three captivating data stories: one focused on the rock genre in Spain, another on the rock scene in the United States, and the last one about generic facts concerning rock music. Let's explore these stories and uncover the hidden narratives behind these iconic music landscapes.
+      <br>
 The first story is an exhilarating journey through the vibrant Spanish rock music scene. Through in-depth data analysis and fascinating visualizations, we dealt with the evolution of rock bands, explored their origins, and mapped out the stadiums that have witnessed unforgettable rock performances. Discover the intriguing stories behind renowned Spanish rock bands and immerse yourself in the rich cultural heritage of this genre!
+      <br>
 The second story is an exciting adventure into the heart of American rock music. Our data-driven exploration takes you on a virtual tour of stadiums across the United States, where legendary rock acts have taken the stage. Dive into the formation periods of influential rock bands and investigate the dynamics of notable groups such as Santana, Guns N' Roses, Journey, Linkin Park, and My Chemical Romance. Come with us in the interesting world of American rock music.
-Whether you're a die-hard rock fan, a music enthusiast, or simply curious about the genre, we aim to provide you a unique perspective on the evolution, impact, and cultural significance of rock music in Spain and the USA. Our data stories showcase the power of music analysis, bringing together data, storytelling, and visualizations to create an immersive experience that will leave you inspired and intrigued.
+      <br>
+      The third story resumes the most basic facts about the rock music genre and the people who are considered milestones within it. 
+Whether you're a die-hard rock fan, a music enthusiast, or simply curious about the genre, we aim to provide you a unique perspective on the evolution, impact, and cultural significance of rock music. Our data stories showcase the power of music analysis, bringing together data, storytelling, and visualizations to create an immersive experience that will leave you inspired and intrigued.
 Start exploring the data stories now and let the magic of rock music unfold before your eyes!
  </p>
   </div>
